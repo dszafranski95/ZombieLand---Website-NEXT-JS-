@@ -30,7 +30,7 @@ export default function Home() {
       <span className="text-red-500">Zombie Cataclysm</span>
     </h1>
     <p className="text-[16px] text-gray-200 md:text-white-400 mb-10 md:pb-2 max-w-[400px]">
-      In a world overrun by the undead, humanity's last hope lies in the digital realm. Join us as we navigate the apocalypse and strive to rebuild civilization.
+      In a world overrun by the undead, humanity is last hope lies in the digital realm. Join us as we navigate the apocalypse and strive to rebuild civilization.
     </p>
 
 

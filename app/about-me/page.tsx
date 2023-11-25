@@ -10,7 +10,7 @@ const Page = () => {
     Survival Arsenal<span className="text-red-500">.</span>
 </h1>
 <p className="max-w-[350px] text-[16px] text-gray-200 md:text-white-400">
-    In the face of the undead apocalypse, it's not just about brute strength. My skills are a blend of strategy, adaptability, and resilience. From fortifying defenses to deciphering the undead's patterns, I've honed my abilities to face the cataclysm.
+    In the face of the undead apocalypse, it is not just about brute strength. My skills are a blend of strategy, adaptability, and resilience. From fortifying defenses to deciphering the undeads patterns, I have honed my abilities to face the cataclysm.
 </p>
         </div>
         <div className='absolute -left-36 bottom-5 rotate-12 animate-pulse duration-75'>

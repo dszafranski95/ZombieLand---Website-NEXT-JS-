@@ -56,7 +56,6 @@ const Particle = () => {
             type: "circle", // Circle shape to resemble blood droplets
           },
           size: {
-            random: { min: 1, max: 3 }, // Vary the size for a natural rain effect
             value: 2,
           },
         },
